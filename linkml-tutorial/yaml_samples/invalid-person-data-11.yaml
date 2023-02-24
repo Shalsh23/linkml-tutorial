@@ -1,5 +1,5 @@
 persons:
-  - id:
+  - id: 1
     full_name: John Doe
-    age: 35
+#    age:
     phone:  555-555-5550

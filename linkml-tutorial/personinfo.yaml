@@ -26,6 +26,7 @@ classes:
         range: integer
         minimum_value: 0
         maximum_value: 200
+        recommended: true
   Container:
     tree_root: true
     description: "list of persons"
